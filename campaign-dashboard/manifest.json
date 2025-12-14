@@ -1,0 +1,8 @@
+{
+  "name": "Campaign Dashboard",
+  "short_name": "Dashboard",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#0057ff"
+}
